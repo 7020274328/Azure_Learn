@@ -1,0 +1,9 @@
+Employee_ID,First_Name,Last_Name,Department,Job_Title,Salary,Join_Date,Email,Phone
+101,Shubham,Khairnar,IT,Data Engineer,75000,2023-01-15,shubham.k@example.com,9876543210
+102,Amit,Sharma,HR,HR Manager,60000,2022-11-20,amit.sharma@example.com,9123456780
+103,Priya,Patil,Finance,Accountant,55000,2023-03-10,priya.patil@example.com,9988776655
+104,Rahul,Verma,IT,Software Developer,70000,2021-07-25,rahul.verma@example.com,9090909090
+105,Sneha,Iyer,Marketing,Marketing Executive,50000,2022-05-18,sneha.iyer@example.com,9812345678
+106,Vikas,Singh,Sales,Sales Manager,65000,2020-09-30,vikas.singh@example.com,9765432109
+107,Neha,Gupta,IT,Data Analyst,62000,2023-06-12,neha.gupta@example.com,9898989898
+108,Arjun,Reddy,Operations,Operations Manager,68000,2021-12-01,arjun.reddy@example.com,9345678901
